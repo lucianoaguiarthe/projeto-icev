@@ -1,4 +1,4 @@
-##### build the project
+##### build the project 
 
     ./gradlew build
 
@@ -12,7 +12,7 @@
     
 
 ### Changes
-[23.Aug.2021]
+[02.Nov.2021]
 
 Gradle wrapper version upgraded from version 6.x to 7.0 
         
