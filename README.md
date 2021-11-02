@@ -1,5 +1,4 @@
 ##### build the project
-#### O Anderson é Gay
 
     ./gradlew build
 
